@@ -1,0 +1,47 @@
+Algo:
+
+1. Find the next permutation of a given list of integers in ascending order in best time
+2. String compression, I was asked to print the number of types a particular character appeared in that string. For example - aabbbcc = a2b3c2 
+3. Power of 10 - Leet Code easy question .
+4. Trapping rainwater - Leet code hard question .
+5. Linked List, Sorting question with binary tree
+6. String anagram question.
+7.  Median of Sorted Array: (best solution)
+8. 2 Sum, 3 Sum, 4 Sum
+9. HashMAp
+10.  High Five
+11. binary search tree implementation.
+12. 
+
+
+System:
+1. Design an online messaging system that would be used as an internal tool
+2. stack overflow
+3. designing a scalable system
+4. BookMyShow, Fadango
+5. Design an online messaging system that would be used as an internal tool
+
+
+
+Concepts:
+1. what is session hijacking? 
+2. What is git ? All git commands that I know ? What are branches in git ? Why use git ?
+
+
+Behav:
+
+1. Why do you think you would be a good fit?
+2. Explain in detail one way you have thought of making money.
+3. When the manager tries to access the information, do you make the manager access the information?
+4. What would you do if your coworker came up to you in the elevator saying they’re getting a larger mortgage with hopes of getting a promotion soon?
+5. What would you do if your teammate took full credit for something you worked on?
+6. What would you do if your team member couldn't continue the project ?
+7. what if you make mistake in monthly report?
+8. what if other people take your credit?
+9. How would I develop a movie booking application
+10. what would like to do if you bacame ceo of goldman sachs
+
+
+
+
+
