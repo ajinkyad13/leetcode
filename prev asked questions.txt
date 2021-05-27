@@ -19,8 +19,6 @@ System:
 2. stack overflow
 3. designing a scalable system
 4. BookMyShow, Fadango
-5. Design an online messaging system that would be used as an internal tool
-
 
 
 Concepts:
